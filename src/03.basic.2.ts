@@ -1,4 +1,6 @@
-const array1:string[] = []
+// 类型断言
+
+const array1: string[] = []
 
 array1.push('2')
 
