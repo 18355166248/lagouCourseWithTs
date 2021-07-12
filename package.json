@@ -1,0 +1,30 @@
+{
+  "name": "lagoucoursewithts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.28.2",
+    "@typescript-eslint/parser": "^4.28.2",
+    "eslint": "^7.30.0",
+    "eslint-config-alloy": "^4.1.0",
+    "eslint-plugin-react": "^7.24.0",
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+    "eslint": "eslint src --ext .ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18355166248/lagouCourseWithTs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18355166248/lagouCourseWithTs/issues"
+  },
+  "homepage": "https://github.com/18355166248/lagouCourseWithTs#readme"
+}
